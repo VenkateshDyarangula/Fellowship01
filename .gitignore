@@ -1,2 +1,6 @@
+#ignoring pdf
 *.pdf
+#ignoring exe`s
 *.exe
+#ignoring folders by using /
+test/
